@@ -5,6 +5,9 @@ body {
 }
 .subtitle { color: red; 
   border: 2px solid rgb(255, 255, 255);
+  padding: 20px;
+  margin: 40px;
+  width: 300px;
 }
 #page-title { font-size: 48px; color: navy; }
 #my-name {
