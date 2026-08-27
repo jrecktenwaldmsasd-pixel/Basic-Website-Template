@@ -7,7 +7,12 @@ body {
   border: 2px solid rgb(255, 255, 255);
   padding: auto;
   margin: auto;
-  width: 300px;
+  width: auto;
+  #photo-caption {
+  width: 400px;
+  margin: 0 auto;
+}
+
 }
 #page-title { font-size: 48px; color: navy; }
 #my-name {
@@ -19,4 +24,12 @@ body {
 #my-name {
   color: rgb(1, 166, 23);
   font-size: 40px;
+}
+
+.favorites-list {
+  margin-bottom: 40px;
+}
+ 
+#my-table {
+  margin-bottom: 40px;
 }
