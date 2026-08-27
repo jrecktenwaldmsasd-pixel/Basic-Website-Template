@@ -7,7 +7,7 @@ body {
   border: 2px solid rgb(255, 255, 255);
   padding: auto;
   margin: auto;
-  width: auto;
+  width: 300px;
 }
 #page-title { font-size: 48px; color: navy; }
 #my-name {
