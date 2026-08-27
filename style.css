@@ -3,7 +3,9 @@ body {
   background-color: #000000;
   font-family: 'Times New Roman', Times, serif
 }
-.subtitle { color: red; }
+.subtitle { color: red; 
+  border: 2px solid rgb(255, 255, 255);
+}
 #page-title { font-size: 48px; color: navy; }
 #my-name {
   color: navy;
