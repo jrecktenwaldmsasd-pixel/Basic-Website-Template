@@ -26,9 +26,14 @@ body {
   font-size: 40px;
 }
 .favorites-list {
-  margin-bottom: 40px;
+  #profile-image {
+  padding: 15px;
 }
  
 #my-table {
+  padding: 10px;
+  border: 2px solid #ffffff;
   margin-bottom: 40px;
+}
+
 }
