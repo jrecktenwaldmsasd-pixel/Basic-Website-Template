@@ -3,12 +3,14 @@ body {
   background-color: #000000;
   font-family: 'Times New Roman', Times, serif
 }
-.subtitle { color: red; 
+.fact { color: red; 
   border: 2px solid rgb(255, 255, 255);
-  padding: auto;
-  margin: auto;
+  text-align: left;
+  padding: 20px;
+  margin: 30px;
   width: auto;
   #photo-caption {
+  text-align: left;
   width: 400px;
   margin: 0 auto;
 }
